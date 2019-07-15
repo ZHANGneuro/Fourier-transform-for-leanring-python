@@ -1,4 +1,4 @@
-# Fourier-transform-python-
+# Fourier-transform-python
 visualizing the calculating process of Fourier transform
 
 
